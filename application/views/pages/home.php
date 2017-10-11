@@ -1,0 +1,8 @@
+<h2><?=$title; ?></h2>
+<p>Welcome to the CIBLOG Application</p>
+<p><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem mollitia eos obcaecati fuga quos quis doloribus, ducimus! Hic eligendi, voluptas animi dolorem vero sunt sit iusto ipsa est. Eveniet, magnam.</span>
+<span>Illum praesentium nostrum accusamus ad ipsum iste maxime, at corporis ducimus ea nulla, nam doloremque asperiores architecto iusto optio suscipit sit in soluta. A itaque vel numquam accusantium repellendus veritatis?</span>
+<span>Aliquid accusantium beatae facilis nemo, ipsa fugiat minima voluptatibus? Impedit quasi fuga culpa laudantium voluptatum quam aliquid commodi, alias quod doloribus in qui eos et sunt esse odio libero quo.</span>
+<span>Facere nesciunt quod, eaque illum itaque qui assumenda modi sunt! Soluta ratione modi, id animi minus ut error quasi voluptatum. Deleniti voluptatem aliquid molestiae ab in dolores officiis provident asperiores.</span>
+<span>Cum iure hic ipsum ducimus reiciendis, consequuntur excepturi in voluptatem perferendis. Odit, deserunt molestias! Sapiente hic voluptatibus nostrum assumenda facilis dolores corrupti quidem amet unde, pariatur eum, quo. Molestiae, officiis.</span>
+<span>Impedit enim, accusantium eveniet sequi ratione ea cupiditate ullam minus nemo. Eaque dignissimos cumque, ipsam similique modi fuga voluptas dolore laborum aspernatur! Tenetur iusto nesciunt voluptatem corporis quo dicta placeat.</span></p>
